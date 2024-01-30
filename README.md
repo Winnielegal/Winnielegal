@@ -1,4 +1,4 @@
-# Hi there, I'm Winnie! 👋
+# Hi there, I'm McKenzie! 👋
 
 - 👀 I’m interested in cybersecurity and frontend web development, exploring the exciting world of securing the digital world and creating engaging web experiences.
 - 🌱 I’m currently learning about the latest trends in cybersecurity and enhancing my skills in frontend technologies like HTML, CSS, and JavaScript.
